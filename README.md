@@ -1,6 +1,7 @@
 #Vehicle Object Detection and Tracking in Trafﬁc Surveillance Video
 
 Dec. 2011 ∼ May. 2012
+
 Advisor: Weiyao Lin http://wylin2.drivehq.com/
 
 ##Overview
